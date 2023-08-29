@@ -1,0 +1,9 @@
+# IBM-Applied-AI-Professional-Certificate
+IBM Applied AI IBM Applied AI Professional Certificate at Coursera
+
+The IBM Applied AI Professional Certificate offered on Coursera focuses on the impact of Artificial Intelligence (AI), in fields. Whether you're a student, developer or technology consultant having an understanding of AI and the ability to develop AI powered applications can give you an advantage in your career. This certificate program equips you with the skills to work as an AI Application Developer.
+
+Throughout this program you will gain knowledge about AI, its applications and its practical use cases. You will also become acquainted with IBM Watson AI services and APIs. Even if you don't have programming experience this program will enable you to create chatbots driven by AI and acquire Python skills for working with AI. Additionally these courses will empower you to integrate built AI capabilities into your products and solutions. Regardless of your existing knowledge in the field of AI you will learn how to design develop and deploy web based applications powered by intelligence.
+
+Than starting from scratch by creating algorithms and interfaces for AI systems learners in this program will utilize IBM Watsons readily available services and APIs to build smart applications, with minimal coding required. By completing this Professional Certificate program learners will showcase their proficiency in applying AI principles through projects that demonstrate their ability to build innovative solutions powered by artificial intelligence.
+This Professional Certificate consists of six courses that cover aspects of Artificial Intelligence (AI). The courses include Introduction, to Artificial Intelligence Getting Started with AI using IBM Watson, Building AI Powered Chatbots Without Programming, Python for Data Science and AI Developing AI Applications, with Python and Flask and Building AI Applications with Watson APIs.
